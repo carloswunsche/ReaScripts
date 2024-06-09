@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="KW Scripts" commit="1c48b52f7f02a50e01d120c57ec735898c93fba5">
-  <category name="General">
-    <reapack name="KW_Reaper startup.lua" type="script" desc="Reaper startup">
+<index version="1" name="KW Scripts" commit="630abca74ca792e5850f4bfc22a6e6c127ac678b">
+  <category name="Bundle">
+    <reapack name="KW_Script bundle.lua" type="script" desc="Script bundle">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 This is an example of a package file. It installs itself as a ReaScript that does nothing but show "Hello World!" in REAPER's scripting console.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Packages may also include additional files specified using the @provides tag.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 This text is the documentation shown when using ReaPack's "About this package" feature. {\field{\*\fldinst{HYPERLINK "https://commonmark.org/"}}{\fldrslt{\ul
-Markdown
-}}}
- {\i formatting} is supported.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Description\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab My personal script bundle.\sa180\par}
 }
 ]]></description>
+        <link rel="website" href="https://github.com/carloswunsche/">Github</link>
       </metadata>
-      <version name="1.0" author="KW" time="2024-06-09T22:45:27Z">
-        <source main="main">https://github.com/carloswunsche/ReaScripts/raw/c0ac4a10463558edc7d75b00a5ed3c2ed00d05b0/General/KW_Reaper%20startup.lua</source>
+      <version name="1.0" author="Carlos Wunsche" time="2024-06-09T23:26:42Z">
+        <changelog><![CDATA[+ Moved to repository]]></changelog>
+        <source>https://github.com/carloswunsche/ReaScripts/raw/630abca74ca792e5850f4bfc22a6e6c127ac678b/Bundle/KW_Script%20bundle.lua</source>
+        <source main="main" file="KW_Reaper startup.lua">https://github.com/carloswunsche/ReaScripts/raw/630abca74ca792e5850f4bfc22a6e6c127ac678b/Bundle/KW_Reaper%20startup.lua</source>
       </version>
     </reapack>
   </category>
