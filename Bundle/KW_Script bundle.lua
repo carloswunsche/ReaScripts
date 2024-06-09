@@ -1,4 +1,4 @@
--- @description Script bundle
+-- @description KW Script Bundle
 -- @version 1.1
 -- @changelog
 --   + Moved to repository
@@ -7,6 +7,7 @@
 -- @provides
 --  [nomain] .
 --  [main=main] KW_Reaper startup.lua
+--  [main=main] KW_Play-stop.lua
 -- @about
 --    # Description
 --    * My personal script bundle.
