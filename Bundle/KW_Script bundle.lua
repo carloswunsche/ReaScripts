@@ -1,0 +1,13 @@
+-- @description Script bundle
+-- @version 1.0
+-- @changelog
+--   + Moved to repository
+-- @author Carlos Wunsche
+-- @metapackage
+-- @provides
+--  [nomain] .
+--  [main=main] KW_Reaper startup.lua
+-- @about
+--    # Description
+--    * My personal script bundle.
+-- @link Github https://github.com/carloswunsche/
