@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="KW Scripts" commit="630abca74ca792e5850f4bfc22a6e6c127ac678b">
+<index version="1" name="KW Scripts" commit="346a21d9d912f3714d2de9d7524dad8460b422f7">
   <category name="Bundle">
     <reapack name="KW_Script bundle.lua" type="script" desc="Script bundle">
       <metadata>
@@ -17,6 +17,11 @@
         <changelog><![CDATA[+ Moved to repository]]></changelog>
         <source>https://github.com/carloswunsche/ReaScripts/raw/630abca74ca792e5850f4bfc22a6e6c127ac678b/Bundle/KW_Script%20bundle.lua</source>
         <source main="main" file="KW_Reaper startup.lua">https://github.com/carloswunsche/ReaScripts/raw/630abca74ca792e5850f4bfc22a6e6c127ac678b/Bundle/KW_Reaper%20startup.lua</source>
+      </version>
+      <version name="1.1" author="Carlos Wunsche" time="2024-06-09T23:32:15Z">
+        <changelog><![CDATA[+ Moved to repository]]></changelog>
+        <source>https://github.com/carloswunsche/ReaScripts/raw/346a21d9d912f3714d2de9d7524dad8460b422f7/Bundle/KW_Script%20bundle.lua</source>
+        <source main="main" file="KW_Reaper startup.lua">https://github.com/carloswunsche/ReaScripts/raw/346a21d9d912f3714d2de9d7524dad8460b422f7/Bundle/KW_Reaper%20startup.lua</source>
       </version>
     </reapack>
   </category>
