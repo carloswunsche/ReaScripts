@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="KW Scripts" commit="58a3e39ba95bd0f35846aa1f39aa4cb2574295e1">
-  <category name="Example">
-    <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
+<index version="1" name="KW Scripts" commit="1c48b52f7f02a50e01d120c57ec735898c93fba5">
+  <category name="General">
+    <reapack name="KW_Reaper startup.lua" type="script" desc="Reaper startup">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -16,8 +16,8 @@ Markdown
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z">
-        <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
+      <version name="1.0" author="KW" time="2024-06-09T22:45:27Z">
+        <source main="main">https://github.com/carloswunsche/ReaScripts/raw/c0ac4a10463558edc7d75b00a5ed3c2ed00d05b0/General/KW_Reaper%20startup.lua</source>
       </version>
     </reapack>
   </category>
