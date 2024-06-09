@@ -1,5 +1,5 @@
 -- @description Script bundle
--- @version 1.0
+-- @version 1.1
 -- @changelog
 --   + Moved to repository
 -- @author Carlos Wunsche
