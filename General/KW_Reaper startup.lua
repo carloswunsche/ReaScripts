@@ -1,13 +1,6 @@
--- @description Reaper startup
--- @author KW
 -- @version 1.0
--- @about
---   Script description and usage here.
---
---   Packages may also include additional files specified using the @provides tag.
---
---   This text is the documentation shown when using ReaPack's "About this package"
---   feature. [Markdown](https://commonmark.org/) *formatting* is supported.
+-- @author KW
+-- @description Reaper startup
 
 
 
