@@ -224,3 +224,57 @@ then reaper.Main_OnCommand(reaper.NamedCommandLookup("_BR_OPTIONS_STOP_PLAYBACK_
 
 -- Transport: Toggle repeat --> OFF
 if reaper.GetToggleCommandState(1068) == 1 then reaper.Main_OnCommand(1068, 0) end
+
+
+
+----------------
+-- Show Popup --
+----------------
+
+local timer = 1 -- Time in seconds
+local msg_title = "KW"
+local msg_str = "Reaper Startup Script was executed properly!"
+local wnd_w, wnd_h = 300, 100
+
+-- Get the screen size
+local __, __, scr_w, scr_h = reaper.my_getViewport(0, 0, 0, 0, 0, 0, 0, 0, 1)
+
+-- Reference time to check against
+local time = os.time()
+
+-- Window background
+gfx.clear = reaper.ColorToNative(51,51,51)
+
+-- Open the window
+--          Name    w       h   dock    x                   y
+gfx.init(msg_title, wnd_w, wnd_h, 0, (scr_w - wnd_w) / 2, (scr_h - wnd_h) / 2)
+
+gfx.setfont(1, "Arial", 16)
+
+-- White
+gfx.set(255, 255, 255, 255)
+
+-- Center the text
+local str_w, str_h = gfx.measurestr(msg_str)
+local txt_x, txt_y = (gfx.w - str_w) / 2, (gfx.h - str_h) / 2
+
+local function Popup()
+    
+    -- Get the keyboard/window state
+    local char = gfx.getchar()
+    
+    -- Reasons to end the script:
+    --  Esc           Window closed         Timer is up
+    if char == 27 or char == -1 or (os.time() - time) > timer then return end
+    
+    -- Center the text
+    gfx.x, gfx.y = txt_x, txt_y
+    gfx.drawstr(msg_str)
+    
+    -- Maintain the window and keep the script running
+    gfx.update()
+    reaper.defer(Popup)
+    
+end
+
+Popup()
