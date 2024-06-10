@@ -1,7 +1,7 @@
 -- @description KW Script Bundle
--- @version 1.14
+-- @version 1.0
 -- @changelog
---  + Removed that test script
+--  + Adding more scripts
 -- @author Carlos Wunsche
 -- @metapackage
 -- @provides
