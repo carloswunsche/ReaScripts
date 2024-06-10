@@ -1,7 +1,7 @@
 -- @description KW Script Bundle
 -- @version 1.14
 -- @changelog
---  + Added a test script
+--  + Removed that test script
 -- @author Carlos Wunsche
 -- @metapackage
 -- @provides
@@ -17,4 +17,3 @@
 -- User Configuration --
 ------------------------
 
-THIS_IS_IT = 101
