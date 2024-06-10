@@ -1,5 +1,5 @@
 -- @description KW Script Bundle
--- @version 1.13
+-- @version 1.14
 -- @changelog
 --  + Added a test script
 -- @author Carlos Wunsche
@@ -8,7 +8,6 @@
 --  [nomain] .
 --  [main=main] KW_Reaper startup.lua
 --  [main=main] KW_Play-stop.lua
---  [main=main] KW_Test.lua
 -- @about
 --    # Description
 --    * My personal script bundle.
