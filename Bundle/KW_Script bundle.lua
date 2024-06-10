@@ -1,7 +1,7 @@
 -- @description KW Script Bundle
 -- @version 1.0
 -- @changelog
---  + Adding more scripts
+--  + Initial release
 -- @author Carlos Wunsche
 -- @metapackage
 -- @provides
