@@ -1,7 +1,7 @@
 -- @description KW Script Bundle
--- @version 1.0
+-- @version 1.1
 -- @changelog
---  + Initial release
+--  + Added user support
 -- @author Carlos Wunsche
 -- @metapackage
 -- @provides
@@ -13,7 +13,11 @@
 --    * My personal script bundle.
 -- @link Github https://github.com/carloswunsche/
 
-------------------------
--- User Configuration --
-------------------------
 
+
+----------------
+-- User Setup --
+----------------
+-- Default: Carl
+
+USER = "Carl"

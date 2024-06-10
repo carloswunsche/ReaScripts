@@ -1,12 +1,20 @@
 --  @noindex
+package.path = debug.getinfo(1,"S").source:match[[^@?(.*[\/])[^\/]-$]] .."?.lua;".. package.path
+require 'KW_Script bundle'
 
+-----------
+-- Setup --
+-----------
 SCRIPT_NAME = "Transport: Play/stop"
-
-------------------------
--- User Configuration --
-------------------------
 MEDIA_EXPLORER_STOP = true
 REMOVE_EMPTY_TAKES = true
+
+----------------
+-- User Setup --
+----------------
+if USER == "Nico" then
+  REMOVE_EMPTY_TAKES = false
+end
 
 -- Begin undo-block
 reaper.Undo_BeginBlock2(0)
