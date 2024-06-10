@@ -13,38 +13,8 @@
 ]]></description>
         <link rel="website" href="https://github.com/carloswunsche/">Github</link>
       </metadata>
-      <version name="1.0" author="Carlos Wunsche" time="2024-06-09T23:26:42Z">
-        <changelog><![CDATA[+ Moved to repository]]></changelog>
-        <source>https://github.com/carloswunsche/ReaScripts/raw/630abca74ca792e5850f4bfc22a6e6c127ac678b/Bundle/KW_Script%20bundle.lua</source>
-        <source main="main" file="KW_Reaper startup.lua">https://github.com/carloswunsche/ReaScripts/raw/630abca74ca792e5850f4bfc22a6e6c127ac678b/Bundle/KW_Reaper%20startup.lua</source>
-      </version>
-      <version name="1.1" author="Carlos Wunsche" time="2024-06-09T23:32:15Z">
-        <changelog><![CDATA[+ Moved to repository]]></changelog>
-        <source>https://github.com/carloswunsche/ReaScripts/raw/346a21d9d912f3714d2de9d7524dad8460b422f7/Bundle/KW_Script%20bundle.lua</source>
-        <source main="main" file="KW_Reaper startup.lua">https://github.com/carloswunsche/ReaScripts/raw/346a21d9d912f3714d2de9d7524dad8460b422f7/Bundle/KW_Reaper%20startup.lua</source>
-      </version>
-      <version name="1.11" author="Carlos Wunsche" time="2024-06-09T23:59:15Z">
-        <changelog><![CDATA[+ Added more scripts]]></changelog>
-        <source>https://github.com/carloswunsche/ReaScripts/raw/25fdde6844feaa56fd415468d9d19531d29a3c63/Bundle/KW_Script%20bundle.lua</source>
-        <source main="main" file="KW_Reaper startup.lua">https://github.com/carloswunsche/ReaScripts/raw/25fdde6844feaa56fd415468d9d19531d29a3c63/Bundle/KW_Reaper%20startup.lua</source>
-        <source main="main" file="KW_Play-stop.lua">https://github.com/carloswunsche/ReaScripts/raw/25fdde6844feaa56fd415468d9d19531d29a3c63/Bundle/KW_Play-stop.lua</source>
-      </version>
-      <version name="1.12" author="Carlos Wunsche" time="2024-06-10T00:11:14Z">
-        <changelog><![CDATA[+ Added a user configuration area
-* All scripts require this to access global variables]]></changelog>
-        <source>https://github.com/carloswunsche/ReaScripts/raw/dc21c335e76171995c71bb980635c110dc53cc2f/Bundle/KW_Script%20bundle.lua</source>
-        <source main="main" file="KW_Reaper startup.lua">https://github.com/carloswunsche/ReaScripts/raw/dc21c335e76171995c71bb980635c110dc53cc2f/Bundle/KW_Reaper%20startup.lua</source>
-        <source main="main" file="KW_Play-stop.lua">https://github.com/carloswunsche/ReaScripts/raw/dc21c335e76171995c71bb980635c110dc53cc2f/Bundle/KW_Play-stop.lua</source>
-      </version>
-      <version name="1.13" author="Carlos Wunsche" time="2024-06-10T00:17:48Z">
-        <changelog><![CDATA[+ Added a test script]]></changelog>
-        <source>https://github.com/carloswunsche/ReaScripts/raw/cee57b38488028a75139d36c2d475a193a556c45/Bundle/KW_Script%20bundle.lua</source>
-        <source main="main" file="KW_Reaper startup.lua">https://github.com/carloswunsche/ReaScripts/raw/cee57b38488028a75139d36c2d475a193a556c45/Bundle/KW_Reaper%20startup.lua</source>
-        <source main="main" file="KW_Play-stop.lua">https://github.com/carloswunsche/ReaScripts/raw/cee57b38488028a75139d36c2d475a193a556c45/Bundle/KW_Play-stop.lua</source>
-        <source main="main" file="KW_Test.lua">https://github.com/carloswunsche/ReaScripts/raw/cee57b38488028a75139d36c2d475a193a556c45/Bundle/KW_Test.lua</source>
-      </version>
-      <version name="1.14" author="Carlos Wunsche" time="2024-06-10T01:04:07Z">
-        <changelog><![CDATA[+ Added a test script]]></changelog>
+      <version name="1.0" author="Carlos Wunsche" time="2024-06-10T01:04:07Z">
+        <changelog><![CDATA[+ Adding more scripts]]></changelog>
         <source>https://github.com/carloswunsche/ReaScripts/raw/2ba47403b053e885c5de98f91ff4678c1b1eef18/Bundle/KW_Script%20bundle.lua</source>
         <source main="main" file="KW_Reaper startup.lua">https://github.com/carloswunsche/ReaScripts/raw/2ba47403b053e885c5de98f91ff4678c1b1eef18/Bundle/KW_Reaper%20startup.lua</source>
         <source main="main" file="KW_Play-stop.lua">https://github.com/carloswunsche/ReaScripts/raw/2ba47403b053e885c5de98f91ff4678c1b1eef18/Bundle/KW_Play-stop.lua</source>
