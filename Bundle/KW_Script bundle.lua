@@ -1,7 +1,8 @@
 -- @description KW Script Bundle
--- @version 1.11
+-- @version 1.12
 -- @changelog
---   + Added more scripts
+--  + Added a user configuration area
+--  * All scripts require this to access global variables
 -- @author Carlos Wunsche
 -- @metapackage
 -- @provides
@@ -12,3 +13,9 @@
 --    # Description
 --    * My personal script bundle.
 -- @link Github https://github.com/carloswunsche/
+
+------------------------
+-- User Configuration --
+------------------------
+
+THIS_IS_IT = 101
