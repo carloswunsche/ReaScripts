@@ -1,7 +1,7 @@
 -- @description KW Script Bundle
--- @version 1.12
+-- @version 1.13
 -- @changelog
---  + Testing if repo update could delete an unrelated file
+--  + Better User support
 -- @author Carlos Wunsche
 -- @metapackage
 -- @provides

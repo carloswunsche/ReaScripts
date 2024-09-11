@@ -3,11 +3,11 @@
 package.path = debug.getinfo(1,"S").source:match[[^@?(.*[\/])[^\/]-$]] .."?.lua;".. package.path
 function loadrequire(module)
   local function requiref(module)
-      require(module)
+    require(module)
   end
   res = pcall(requiref,module)
   if not(res) then
-      -- Do Stuff when no module
+    -- Do Stuff when no module
   end
 end
 loadrequire('USER')
@@ -18,10 +18,6 @@ loadrequire('USER')
 SCRIPT_NAME = "Transport: Play/stop"
 MEDIA_EXPLORER_STOP = true
 REMOVE_EMPTY_TAKES = true
-
-----------------
--- User Setup --
-----------------
 if USER == "nico" then
   REMOVE_EMPTY_TAKES = false
 end
