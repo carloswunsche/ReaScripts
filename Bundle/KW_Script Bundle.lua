@@ -1,11 +1,10 @@
 -- @description KW Script Bundle
--- @version 1.12
+-- @version 1.1
 -- @changelog
 --  + Better User Support
 -- @author Carlos Wunsche
 -- @metapackage
 -- @provides
---  [nomain] KW_User.lua
 --  [main=main] KW_Reaper startup.lua
 --  [main=main] KW_Play-stop.lua
 -- @about

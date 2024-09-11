@@ -1,6 +1,6 @@
 --  @noindex
 package.path = debug.getinfo(1,"S").source:match[[^@?(.*[\/])[^\/]-$]] .."?.lua;".. package.path
-require 'KW_User'
+require 'USER'
 
 -----------
 -- Setup --
@@ -12,7 +12,7 @@ REMOVE_EMPTY_TAKES = true
 ----------------
 -- User Setup --
 ----------------
-if USER == "Nico" then
+if USER == "nico" then
   REMOVE_EMPTY_TAKES = false
 end
 
