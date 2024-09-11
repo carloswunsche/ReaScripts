@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="KW Scripts" commit="ee06b305dcf85c0c8c04c8d77b494d0cdd2cc330">
+<index version="1" name="KW Scripts" commit="50a0e827e7cc34163e9b792ac6cc642b97eb58ee">
   <category name="Bundle">
     <reapack name="KW_Script bundle.lua" type="script" desc="KW Script Bundle">
       <metadata>
@@ -8,7 +8,8 @@
 \widowctrl\hyphauto
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Description\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab My personal script bundle.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 My personal script bundle.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Under construction...\par}
 }
 ]]></description>
         <link rel="website" href="https://github.com/carloswunsche/">Github</link>
@@ -47,10 +48,11 @@
 \widowctrl\hyphauto
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 KW Script Bundle\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 This is a script pack that aims to improve my workflow and force a particular behavior when using Reaper.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This is a script bundle that aims to improve my workflow and force a particular behavior when using Reaper.\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Features\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Custom Play/Stop action\par}
 {\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Forces global Read automation mode.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Under construction...\par}
 }
 ]]></description>
   </metadata>
