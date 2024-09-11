@@ -5,12 +5,11 @@
 -- @author Carlos Wunsche
 -- @metapackage
 -- @provides
---  [nomain] .
 --  [nomain] KW_User.lua
 --  [main=main] KW_Reaper startup.lua
 --  [main=main] KW_Play-stop.lua
 -- @about
 --    # Description
 --    ## My personal script bundle.
---    ### Under construction..
+--    ### Under construction...
 -- @link Github https://github.com/carloswunsche/
