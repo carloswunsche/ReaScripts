@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index version="1" name="KW Scripts" commit="d16d306c9bbe094a229f3f85dea96f904238f7be">
   <category name="Bundle">
-    <reapack name="Metapackage" type="script" desc="KW Script Bundle">
+    <reapack name="Metapackage.lua" type="script" desc="KW Script Bundle">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
