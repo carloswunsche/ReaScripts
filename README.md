@@ -1,6 +1,6 @@
-# KW Script Bundle
+# KW Scripts Bundle
 
-This is a script bundle that aims to improve my workflow and force a particular behavior when using Reaper.
+About KW Scripts
 
 ## Features
 
