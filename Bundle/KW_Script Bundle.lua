@@ -1,5 +1,5 @@
 -- @description KW Script Bundle
--- @version 1.11
+-- @version 1.12
 -- @changelog
 --  + Better User Support
 -- @author Carlos Wunsche
