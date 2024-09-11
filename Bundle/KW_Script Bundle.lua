@@ -1,7 +1,7 @@
 -- @description KW Script Bundle
--- @version 1.1
+-- @version 1.11
 -- @changelog
---  + Added User Support
+--  + Better User Support
 -- @author Carlos Wunsche
 -- @metapackage
 -- @provides

@@ -1,5 +1,4 @@
 -- @noindex
 -- User Setup
--- Default: Carl
 
-USER = "Carl"
+USER = "default"

@@ -277,4 +277,4 @@ local function Popup()
     
 end
 
-if USER == "Carl" then Popup() end
+if USER == "default" then Popup() end
