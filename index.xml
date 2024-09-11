@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="KW Scripts" commit="0e2115ceebfa39b4e1294381b9ef3d6db908bbd3">
+<index version="1" name="KW Scripts" commit="478e62092e86650a56a75750a3ea08e0a6691c7f">
   <category name="Bundle">
     <reapack name="Metapackage.lua" type="script" desc="KW Script Bundle">
       <metadata>
@@ -29,6 +29,11 @@
         <changelog><![CDATA[+ Will use module if it exists]]></changelog>
         <source main="main" file="KW_Reaper startup.lua">https://github.com/carloswunsche/ReaScripts/raw/b2d3f95b2320efc5e838df4e0e3ace554fe58217/Bundle/KW_Reaper%20startup.lua</source>
         <source main="main" file="KW_Play-stop.lua">https://github.com/carloswunsche/ReaScripts/raw/b2d3f95b2320efc5e838df4e0e3ace554fe58217/Bundle/KW_Play-stop.lua</source>
+      </version>
+      <version name="1.12" author="Carlos Wunsche" time="2024-09-11T17:09:04Z">
+        <changelog><![CDATA[+ Will use module if it exists]]></changelog>
+        <source main="main" file="KW_Reaper startup.lua">https://github.com/carloswunsche/ReaScripts/raw/478e62092e86650a56a75750a3ea08e0a6691c7f/Bundle/KW_Reaper%20startup.lua</source>
+        <source main="main" file="KW_Play-stop.lua">https://github.com/carloswunsche/ReaScripts/raw/478e62092e86650a56a75750a3ea08e0a6691c7f/Bundle/KW_Play-stop.lua</source>
       </version>
     </reapack>
   </category>
