@@ -5,6 +5,7 @@
 -- @author Carlos Wunsche
 -- @metapackage
 -- @provides
+--  [nomain] .
 --  [nomain] KW_User.lua
 --  [main=main] KW_Reaper startup.lua
 --  [main=main] KW_Play-stop.lua
