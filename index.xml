@@ -19,7 +19,7 @@
         <source main="main" file="KW_Reaper startup.lua">https://github.com/carloswunsche/ReaScripts/raw/2ba47403b053e885c5de98f91ff4678c1b1eef18/Bundle/KW_Reaper%20startup.lua</source>
         <source main="main" file="KW_Play-stop.lua">https://github.com/carloswunsche/ReaScripts/raw/2ba47403b053e885c5de98f91ff4678c1b1eef18/Bundle/KW_Play-stop.lua</source>
       </version>
-      <version name="1.1" author="Carlos Wunsche" time="2024-06-10T02:02:39Z">
+      <version name="1.2" author="Carlos Wunsche" time="2024-06-10T02:02:39Z">
         <changelog><![CDATA[+ Added user support]]></changelog>
         <source>https://github.com/carloswunsche/ReaScripts/raw/11b562b1fe736dd9dd5eed538c47999e68681c27/Bundle/KW_Script%20bundle.lua</source>
         <source main="main" file="KW_Reaper startup.lua">https://github.com/carloswunsche/ReaScripts/raw/11b562b1fe736dd9dd5eed538c47999e68681c27/Bundle/KW_Reaper%20startup.lua</source>

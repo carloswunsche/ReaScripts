@@ -277,4 +277,4 @@ local function Popup()
     
 end
 
-Popup()
+if USER == "Carl" then Popup() end
