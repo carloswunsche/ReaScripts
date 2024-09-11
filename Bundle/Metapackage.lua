@@ -1,5 +1,5 @@
 -- @description KW Script Bundle
--- @version 1.11
+-- @version 1.112
 -- @changelog
 --  + Will use module if it exists
 -- @author Carlos Wunsche
