@@ -1,7 +1,16 @@
 -- @noindex
 
 package.path = debug.getinfo(1,"S").source:match[[^@?(.*[\/])[^\/]-$]] .."?.lua;".. package.path
-
+function loadrequire(module)
+  local function requiref(module)
+      require(module)
+  end
+  res = pcall(requiref,module)
+  if not(res) then
+      -- Do Stuff when no module
+  end
+end
+loadrequire('USER')
 
 -----------
 -- Setup --

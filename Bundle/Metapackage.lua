@@ -1,7 +1,7 @@
 -- @description KW Script Bundle
 -- @version 1.12
 -- @changelog
---  + Will use module if it exists
+--  + Testing if repo update could delete an unrelated file
 -- @author Carlos Wunsche
 -- @metapackage
 -- @provides
